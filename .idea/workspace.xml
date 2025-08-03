@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b49d1407-2e4c-42a3-a1d4-b3a68d19f6ec" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebScrapers.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/WebScrapers.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laval.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Laval.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <updated>1753456551792</updated>
       <workItem from="1753456552855" duration="22576000" />
       <workItem from="1753889765489" duration="699000" />
-      <workItem from="1754148100448" duration="826000" />
+      <workItem from="1754148100448" duration="16297000" />
     </task>
     <servers />
   </component>
